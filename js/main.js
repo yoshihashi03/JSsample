@@ -1,3 +1,8 @@
 'use strict';
+// コメント
 
-	console.log('Hellow World from js.main!');
+/*
+コメント
+コメント
+*/
+	// console.log('Hellow World from js.main!');
